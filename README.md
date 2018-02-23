@@ -1,2 +1,2 @@
 # Provachat
-prova chat bot con motion.ai
+prova chat bot con Gupsaup
